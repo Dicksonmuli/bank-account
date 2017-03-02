@@ -1,0 +1,46 @@
+.contact{
+  display: none;
+}
+.text-area{
+  display: none;
+}
+.inner-wrapper{
+  display: none;
+}
+.introduction{
+  height: 550px
+  text-align: center;
+  justify-content: center;
+}
+#welcome{
+  justify-content: center;
+}
+#body-wrapper{
+  background-color: #1A5E71;
+  width: 100%;
+}
+#header-wrapper{
+  background-color: white;
+  height: 150px;
+   margin-top: 20px;
+}
+#left-row{
+   background-color: #D1E7EE;
+   margin-left: 50px;
+   margin-top: 20px;
+}
+#inner-left-row{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+#right-row{
+   background-color: #FFF;
+   margin-right: 150px;
+   margin-top: 20px;
+   width: 150px;
+   margin-left: 1px solid #D1E7EE;
+   padding-left: 5px;
+}
+.text-area{
+   background-color: #D1E7EE;
+}
